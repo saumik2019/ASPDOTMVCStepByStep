@@ -14,6 +14,7 @@ namespace DataAccessLayer
         {
             DataSet ds = null;
             string str = ConfigurationManager.ConnectionStrings["dbconnect"].ToString();
+            //opening connection
             using (MySqlConnection con = new MySqlConnection(str))
             {
                 MySqlCommand cmd = new MySqlCommand("SELECT * FROM tblemployee;",con);
