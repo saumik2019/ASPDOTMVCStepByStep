@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPDOTMVCStepByStep", "ASPDOTMVCStepByStep\ASPDOTMVCStepByStep.csproj", "{678AA5CB-4829-41A1-AD42-C61C312172EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{4EE4506A-37C9-4747-BD8C-08128E156E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678AA5CB-4829-41A1-AD42-C61C312172EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678AA5CB-4829-41A1-AD42-C61C312172EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678AA5CB-4829-41A1-AD42-C61C312172EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678AA5CB-4829-41A1-AD42-C61C312172EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE4506A-37C9-4747-BD8C-08128E156E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE4506A-37C9-4747-BD8C-08128E156E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE4506A-37C9-4747-BD8C-08128E156E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE4506A-37C9-4747-BD8C-08128E156E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC80ED3F-EB0E-4929-8361-6128E48C879A}
+	EndGlobalSection
+EndGlobal

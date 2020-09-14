@@ -1,0 +1,13 @@
+E:\Projects\ASPDOTMVCStepByStep\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\ASPDOTMVCStepByStep\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\ASPDOTMVCStepByStep\DataAccessLayer\bin\Debug\MySql.Data.dll
+E:\Projects\ASPDOTMVCStepByStep\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Projects\ASPDOTMVCStepByStep\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Projects\ASPDOTMVCStepByStep\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\ASPDOTMVCStepByStep\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\ASPDOTMVCStepByStep\DataAccessLayer\bin\Debug\MySql.Data.xml
+E:\Projects\ASPDOTMVCStepByStep\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\Tutorialproject\ASPDOTMVCStepByStep\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Tutorialproject\ASPDOTMVCStepByStep\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Tutorialproject\ASPDOTMVCStepByStep\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Tutorialproject\ASPDOTMVCStepByStep\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
